@@ -1,0 +1,8 @@
+1/292/2026 Meeting
+
+	Refocusing Project: We have data on a multitude of CSBA codes, so it would make sense to do analysis on the country as a whole. But, some data analysis on certain POI's like Chicago, New York, etc. would give good presentation value, so this idea is open.
+
+Zach: Start on data exploration and analysis on New York.
+Ervin: data exploration and analysis on Chicago.
+Alexei and Wyatt: Continue with merging government dataset and Kaggle dataset to end up with fuller dataset. CBSA codes have changed since 1980, so it will be a bit of a struggle to find a way to merge the two data.
+Evan Hu: Completed data exploration with finished heat map
